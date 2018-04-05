@@ -1,0 +1,14 @@
+
+
+
+
+			Getting Money & Payment account
+			Tor Browser + VPN
+			Buy Hosting
+			Login to host, upload php files and set up host
+			Compile B.0.T to host
+			SPREAD, Login to host with tor browser + vpn
+			Get IP, use proxyfier and set up socks5 to vmware
+			
+			
+			
